@@ -1,7 +1,7 @@
-Pequeno exemplo de aplicação Vue.js simulando trocas de mensagens.
+# Pequeno exemplo de aplicação Vue.js simulando trocas de mensagens.
 
 ## install dependencies
-npm install
+    npm install
 
 ## serve with hot reload at localhost:8080
-npm run dev
+    npm run dev
