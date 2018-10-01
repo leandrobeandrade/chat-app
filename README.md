@@ -1,4 +1,4 @@
-# Pequeno exemplo de aplicação Vue.js simulando trocas de mensagens.
+Pequeno exemplo de aplicação Vue.js simulando trocas de mensagens.
 
 ## install dependencies
     npm install
