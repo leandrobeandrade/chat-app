@@ -1,4 +1,5 @@
-Pequeno exemplo de aplicação Vue.js simulando trocas de mensagens.
+# CHAT-APP
+Pequeno exemplo de aplicação Web com Vue.js simulando trocas de mensagens.
 
 ## install dependencies
     npm install
